@@ -1,0 +1,9 @@
+UserController.register = 2.14
+UserController.addDish = 3.54
+UserController.listOrder = 1.17
+VendorController.addVendor = 2.05  
+VendorController.fetchVendor = 9.49
+VendorController.addDish = 2.43
+VendorController.fetchDishesInVendor = 2.55
+VendorController.addTagInVendor = 18.34
+VendorController.fetchVendorByTag = 9.53
